@@ -28,8 +28,11 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`https://imgur.com/59qGaTj`
-`https://imgur.com/vIQgPzj`
+<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/nemqUklGHsOqCEj6yX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nemqUklGHsOqCEj6yX">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/DbpaEa9BpRHbSRIkGS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DbpaEa9BpRHbSRIkGS">via GIPHY</a></p>
+<!-- `https://imgur.com/59qGaTj`
+`https://imgur.com/vIQgPzj` -->
 
 ### Reflection
 
